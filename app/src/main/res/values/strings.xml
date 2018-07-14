@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimFXRacing</string>
+    <string name="league_name">League Name</string>
+    <string name="add_league">Add</string>
+</resources>
