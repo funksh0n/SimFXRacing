@@ -47,3 +47,14 @@ The mobile clients will be hosted by the official store of each device:
 - Windows Store
 
 The desktop application can be made available from the SimFXRacing.com website, where users can also find support and basic functionality such as account registration.
+
+## 4. Security
+All data transmitted to and from the API will be fully encrypted with HTTPS over TLS.
+
+The SimFXRacing.com website will use HTTPS where appropriate, and an X.509 TLS certificate can be obtained from LetsEncrypt at no cost, which is actively supported by all major browsers.
+
+User data will be stored in the MongoDB database on an encrypted EC2 VPS provided by AWS.  Additional security will be employed for sensitive data such as passwords by using modern hashing techniques such that even those with full access to the database can not retreive the information.
+
+Consideration must be given to the nature of the data collected by SimFXRacing.  The distinction between Anonymous, Psuedononymous and Identifying information must be clear, and users must be informed of what information is stored in what manner and why.  Policies such as GDPR will be reviewd to assist in these considerations.
+
+Modern techniques to mitigate attacks such as session hijacking, XSS attacks, CSRF attacks, and code injection attacks, are all covered under the development of the API and client.
