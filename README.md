@@ -16,7 +16,7 @@ As the C language of the 21st century, Go has good support for NoSQL databases, 
 
 Go provides many powerful packages, importantly the `http` package, and is ideal for creating RESTful interfaces that client apps can talk to.
 
-Go requires no separate web service such as NGINX or Apache, as Go is capable of listening to TCP itself.
+Go requires no separate web service such as NGINX or Apache, as Go is itself capable of listening to TCP.
 
 ## League Screen
 * Add races
