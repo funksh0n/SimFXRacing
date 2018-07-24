@@ -33,7 +33,7 @@ Electron takes the pervasiveness of Web Apps and the native experience of a desk
 
 ## 3. Hosting
 ### Code - GitHub
-Providing free-to-competative pricing options, full git versioning support, and a host of supporting tools such as project Wiki's, Markdown'd readme, and public-facing web pages, **GitHub** is arguably the largest and most popular code hosting solution in the world.
+Providing free-to-competative pricing options, and a host of supporting tools such as project Wiki's, Markdown'd readme, and public-facing web pages, **GitHub** is arguably the largest and most popular code hosting solution in the world.
 
 ### API & Database - Amazon Web Services (AWS)
 **AWS** offers solutions ranging from specialised Database and API services, to fully fledged dedicated private servers.  There are a multitude of pricing options to suit operations of all sizes, as well as seamless scaling and switching.
