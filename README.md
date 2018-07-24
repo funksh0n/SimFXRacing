@@ -1,7 +1,7 @@
 # SimFXRacing - Specification
 1. [API](https://github.com/funksh0n/SimFXRacing/blob/master/README.md#1-api)
 2. [Clients](https://github.com/funksh0n/SimFXRacing/blob/master/README.md#2-clients---qt)
-3. Hosting
+3. [Hosting](https://github.com/funksh0n/SimFXRacing/blob/master/README.md#3-hosting)
 4. Security
 5. Cost
 
