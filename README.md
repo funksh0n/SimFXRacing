@@ -3,7 +3,7 @@
 2. [Clients](https://github.com/funksh0n/SimFXRacing/blob/master/README.md#2-clients---qt)
 3. [Hosting](https://github.com/funksh0n/SimFXRacing/blob/master/README.md#3-hosting)
 4. [Security](https://github.com/funksh0n/SimFXRacing/blob/master/README.md#4-security)
-5. Cost
+5. [Cost](https://github.com/funksh0n/SimFXRacing/blob/master/README.md#5-cost)
 
 ## 1. API
 ### Data - MongoDB
