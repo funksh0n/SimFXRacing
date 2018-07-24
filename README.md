@@ -58,3 +58,20 @@ User data will be stored in the MongoDB database on an encrypted EC2 VPS provide
 Consideration must be given to the nature of the data collected by SimFXRacing.  The distinction between Anonymous, Psuedononymous and Identifying information must be clear, and users must be informed of what information is stored in what manner and why.  Policies such as GDPR will be reviewd to assist in these considerations.
 
 Modern techniques to mitigate attacks such as session hijacking, XSS attacks, CSRF attacks, and code injection attacks, are all covered under the development of the API and client.
+
+## 5. Cost
+### Tools & Security Research and full specification
+~40 hours @ £10/h.
+### Multi-Platform Qt App
+~100 hours @ £10/h.
+### GoLang/Mongo API
+~100 hours @ £10/h.
+### Security
+Implemented with API & Client.  LetsEncrypt certification is free.
+### Hosting
+GitHub Developer Account @ £5/mo OR GitHub Team Account @ £7/mo.
+AWS EC2 free up to 750 computation hours, [on-demand price scaling.](https://aws.amazon.com/pricing/?nc2=h_ql_pr&awsm=ql-3)
+
+
+### Total
+£2500 for development and first years deployment.
