@@ -30,3 +30,12 @@ Web Apps can bridge this gap as all major Operating Systems have common web brow
 Electron takes the pervasiveness of Web Apps and the native experience of a desktop application and wraps them into a single experience, allowing for a single code base for desktop that deploys to all major Operating Systems.  However,  it bundles an entire web runtime with each app, even though a suitable runtime already exists as part of the operating system.
 ### Solution
 **Qt** offers the ability to have a single codebase that deploys across all major desktop, mobile and embedded systems.  As native C++ it has excellent performance compared to competing multi-platform solutions such as Adobe Air, as well as an extensive support community.
+
+## 3. Hosting
+### Code - GitHub
+Providing free-to-competative pricing options, full git versioning support, and a host of supporting tools such as project Wiki's, Markdown'd readme, and public-facing web pages, **GitHub** is arguably the largest and most popular code hosting solution in the world.
+
+### API & Database - Amazon Web Services (AWS)
+**AWS** offers solutions ranging from specialised Database and API services, to fully fledged dedicated private servers.  There are a multitude of pricing options to suit operations of all sizes, as well as seamless scaling and switching.
+
+An **EC2 VPS** could host the API and store the database, with options to fragment to Amazons specialised services if required.
