@@ -25,6 +25,8 @@ Android, iOS, and Windows (x) Phone each have a dedicated SDK, language and para
 ### Desktop
 Similarly to Mobile, Windows, MacOS, and Linux each require different builds of the software.  Whilst there are more convenient multi-platform solutions such as C++, there are still limitations such as single-platform libraries and targeted builds that need to be addressed.
 
-Web Apps can bridge this gap as all major OSes have common web browsers, however not all browsers are equal and require different branches of code to run depeding on which browser is detected.
+Web Apps can bridge this gap as all major Operating Systems have common web browsers, however not all browsers are equal and require different branches of code to run depeding on which browser is detected.
 
-Electron takes the pervasiveness of Web Apps and the native experience of a desktop application
+Electron takes the pervasiveness of Web Apps and the native experience of a desktop application and wraps them into a single experience, allowing for a single code base for desktop that deploys to all major Operating Systems.  However,  it bundles an entire web runtime with each app, even though a suitable runtime already exists as part of the operating system.
+### Solution
+**Qt** offers the ability to have a single codebase that deploys accross all major desktop, mobile and embedded systems.  As native C++ it has excellent performance compared to competing multi-platform solutions such as Adobe Air, as well as an extensive support community.
