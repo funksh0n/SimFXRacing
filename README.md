@@ -1,4 +1,4 @@
-# SimFXRacing
+# SimFXRacing - Specification
 1. API
 2. Clients
 3. Hosting
@@ -39,3 +39,11 @@ Providing free-to-competative pricing options, full git versioning support, and 
 **AWS** offers solutions ranging from specialised Database and API services, to fully fledged dedicated private servers.  There are a multitude of pricing options to suit operations of all sizes, as well as seamless scaling and switching.
 
 An **EC2 VPS** could host the API and store the database, with options to fragment to Amazons specialised services if required.
+
+### Clients
+The mobile clients will be hosted by the official store of each device:
+- Android's Play Store
+- Apples iTunes
+- Windows Store
+
+The desktop application can be made available from the SimFXRacing.com website, where users can also find support and basic functionality such as account registration.
