@@ -70,6 +70,7 @@ Modern techniques to mitigate attacks such as session hijacking, XSS attacks, CS
 Implemented with API & Client.  LetsEncrypt certification is free.
 ### Hosting
 GitHub Developer Account @ £5/mo OR GitHub Team Account @ £7/mo.
+
 AWS EC2 free up to 750 computation hours, [on-demand price scaling.](https://aws.amazon.com/pricing/?nc2=h_ql_pr&awsm=ql-3)
 
 
