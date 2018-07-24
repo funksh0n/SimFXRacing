@@ -18,12 +18,13 @@ Go provides many powerful packages, importantly the `http` package, and is ideal
 
 Go requires no separate web service such as NGINX or Apache, as Go is itself capable of listening to TCP.
 
-## League Screen
-* Add races
-* Display table
+## 2. Clients - Qt
+As SimFXRacing will be on multiple devices there are many options to chose from.
+### Mobile
+Android, iOS, and Windows (x) Phone each have a dedicated SDK, language and paradigm for creating Apps.  This leads to natively developed apps requiring a separate code base, and whilst each will be talking to our own API, they would have to be developed separately leading to increased complexity and cost.
+### Desktop
+Similarly to Mobile, Windows, MacOS, and Linux each require different builds of the software.  Whilst there are more convenient multi-platform solutions such as C++, there are still limitations such as single-platform libraries and targeted builds that need to be addressed.
 
-## Race Screen
-* Add drivers to races
-* Add results to races
+Web Apps can bridge this gap as all major OSes have common web browsers, however not all browsers are equal and require different branches of code to run depeding on which browser is detected.
 
-![Main Screen](https://i.imgur.com/h3QqFJt.png)
+Electron takes the pervasiveness of Web Apps and the native experience of a desktop application
