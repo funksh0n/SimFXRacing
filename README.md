@@ -63,9 +63,9 @@ Modern techniques to mitigate attacks such as session hijacking, XSS attacks, CS
 ### Tools & Security Research and full specification
 ~40 hours @ £10/h.
 ### Multi-Platform Qt App
-~100 hours @ £10/h.
+~150 hours @ £10/h.
 ### GoLang/Mongo API
-~100 hours @ £10/h.
+~150 hours @ £10/h.
 ### Security
 Implemented with API & Client.  LetsEncrypt certification is free.
 ### Hosting
@@ -74,4 +74,4 @@ AWS EC2 free up to 750 computation hours, [on-demand price scaling.](https://aws
 
 
 ### Total
-£2500 for development and first years deployment.
+£3500 for development and first years deployment.
